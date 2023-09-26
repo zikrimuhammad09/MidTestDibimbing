@@ -1,0 +1,1 @@
+SELECT DISTINCT email FROM email_list;
